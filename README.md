@@ -1,0 +1,2 @@
+# LiteChat
+Simple AI Chat
